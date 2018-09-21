@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.entrata.facilities.deeplinkingexample",
-    "sha256_cert_fingerprints":
-    ["70:B2:96:49:0B:69:29:CB:74:35:DA:F9:C1:38:F3:18:31:ED:56:3A:EC:79:38:A5:C8:A6:7F:DC:03:EF:76:33"]
-  }
-}]
